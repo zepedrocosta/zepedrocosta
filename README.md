@@ -1,21 +1,7 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zepedrocosta&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zepedrocosta&layout=compact&bg_color=191919&text_color=ffffff&title_color=ea7f0e&border_color=191919)
 
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
