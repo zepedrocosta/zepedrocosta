@@ -3,6 +3,10 @@ name: Update Top Languages card
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
+  push:
+    paths:
+      - ".github/workflows/grs.yml"
+      - "README.md"
   workflow_dispatch:
 
 jobs:
